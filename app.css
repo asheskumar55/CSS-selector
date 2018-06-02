@@ -1,0 +1,31 @@
+/*li {
+	border: 2px solid rgb(0,20,250);
+}
+
+#special {
+	background: yellow;
+}
+
+.complete {
+	text-decoration: line-through;
+}*/
+
+* {
+	border: 2px solid lightgrey;
+}
+
+h4 + ul {
+	border: 4px solid red;
+}
+
+a[href="http://www.google.com"]{
+	background: blue;
+}
+
+li a {
+	color: red;
+}
+
+li:nth-of-type(even) {
+	background: purple; 
+}
